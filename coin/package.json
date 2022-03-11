@@ -1,0 +1,22 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "author": "Kwon",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "query-string": "^7.1.1",
+    "request": "^2.88.2",
+    "uuid": "^8.3.2"
+  }
+}
